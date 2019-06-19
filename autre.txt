@@ -1,0 +1,2 @@
+ceci est la classe des fichiers txt ;) 
+
